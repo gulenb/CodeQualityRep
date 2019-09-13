@@ -1,0 +1,13 @@
+
+fsquid:S1192"JDefine a constant instead of duplicating this literal "SomeValue" 3 times.(³‘°˜ýÿÿÿÿ
+¡squid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Ïžôñÿÿÿÿÿ
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(Ö¿Ô«úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó‰¨Èúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÀûÕûÿÿÿÿ
+wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ö¿Ô«úÿÿÿÿ
+Dsquid:S1125"(Remove the literal "true" boolean value.(Ö¿Ô«úÿÿÿÿ
+dsquid:UnusedPrivateMethod
+":Remove this unused private "executeSomeConditions" method.(é£¬ºùÿÿÿÿ
+osquid:UnusedPrivateMethod"ERemove this unused private "incorrectAssignmentInIfCondition" method.(ñœÂµûÿÿÿÿ
