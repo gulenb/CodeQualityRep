@@ -6,7 +6,7 @@ addons:
 jdk:
   - oraclejdk9
 script:
-  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar
+  - mvn clean verify sonar:sonar -Pcoverage -Dsonar.projectKey=gulen_6c21555e0ae78714a8e76edca77d777206256e5b
 cache:
   directories:
     - '$HOME/.m2/repository'
